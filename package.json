@@ -1,0 +1,23 @@
+{
+  "name": "Fyyur-Udacity-Webdev-Nanodegree",
+  "version": "1.0.0",
+  "description": "Fyyur -----",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay22/Fyyur-Udacity-Webdev-Nanodegree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranay22/Fyyur-Udacity-Webdev-Nanodegree/issues"
+  },
+  "homepage": "https://github.com/pranay22/Fyyur-Udacity-Webdev-Nanodegree#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
